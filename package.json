@@ -1,6 +1,6 @@
 {
   "name": "new-redux-to-do-list",
-  "homepage": "https://softtechkb.github.io/new-react-redux-to-do-list/",
+  "homepage": "https://github.com/softtechkb/new-react-redux-to-do-list.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
